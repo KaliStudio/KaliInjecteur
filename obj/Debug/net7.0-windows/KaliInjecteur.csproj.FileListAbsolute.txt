@@ -1,0 +1,17 @@
+C:\Users\kalic\Desktop\KaliInjecteur\KaliInjecteur\obj\Debug\net7.0-windows\KaliInjecteur.csproj.AssemblyReference.cache
+C:\Users\kalic\Desktop\KaliInjecteur\KaliInjecteur\obj\Debug\net7.0-windows\KaliInjecteur.Form1.resources
+C:\Users\kalic\Desktop\KaliInjecteur\KaliInjecteur\obj\Debug\net7.0-windows\KaliInjecteur.csproj.GenerateResource.cache
+C:\Users\kalic\Desktop\KaliInjecteur\KaliInjecteur\obj\Debug\net7.0-windows\KaliInjecteur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalic\Desktop\KaliInjecteur\KaliInjecteur\obj\Debug\net7.0-windows\KaliInjecteur.AssemblyInfoInputs.cache
+C:\Users\kalic\Desktop\KaliInjecteur\KaliInjecteur\obj\Debug\net7.0-windows\KaliInjecteur.AssemblyInfo.cs
+C:\Users\kalic\Desktop\KaliInjecteur\KaliInjecteur\obj\Debug\net7.0-windows\KaliInjecteur.csproj.CoreCompileInputs.cache
+C:\Users\kalic\Desktop\KaliInjecteur\KaliInjecteur\bin\Debug\net7.0-windows\KaliInjecteur.exe
+C:\Users\kalic\Desktop\KaliInjecteur\KaliInjecteur\bin\Debug\net7.0-windows\KaliInjecteur.deps.json
+C:\Users\kalic\Desktop\KaliInjecteur\KaliInjecteur\bin\Debug\net7.0-windows\KaliInjecteur.runtimeconfig.json
+C:\Users\kalic\Desktop\KaliInjecteur\KaliInjecteur\bin\Debug\net7.0-windows\KaliInjecteur.dll
+C:\Users\kalic\Desktop\KaliInjecteur\KaliInjecteur\bin\Debug\net7.0-windows\KaliInjecteur.pdb
+C:\Users\kalic\Desktop\KaliInjecteur\KaliInjecteur\obj\Debug\net7.0-windows\KaliInjecteur.dll
+C:\Users\kalic\Desktop\KaliInjecteur\KaliInjecteur\obj\Debug\net7.0-windows\refint\KaliInjecteur.dll
+C:\Users\kalic\Desktop\KaliInjecteur\KaliInjecteur\obj\Debug\net7.0-windows\KaliInjecteur.pdb
+C:\Users\kalic\Desktop\KaliInjecteur\KaliInjecteur\obj\Debug\net7.0-windows\KaliInjecteur.genruntimeconfig.cache
+C:\Users\kalic\Desktop\KaliInjecteur\KaliInjecteur\obj\Debug\net7.0-windows\ref\KaliInjecteur.dll
